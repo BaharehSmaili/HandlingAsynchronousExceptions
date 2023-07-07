@@ -1,0 +1,15 @@
+D:\Git_project\HandlingAsynchronousExceptions\bin\Debug\net7.0\HandlingAsynchronousExceptions.exe
+D:\Git_project\HandlingAsynchronousExceptions\bin\Debug\net7.0\HandlingAsynchronousExceptions.deps.json
+D:\Git_project\HandlingAsynchronousExceptions\bin\Debug\net7.0\HandlingAsynchronousExceptions.runtimeconfig.json
+D:\Git_project\HandlingAsynchronousExceptions\bin\Debug\net7.0\HandlingAsynchronousExceptions.dll
+D:\Git_project\HandlingAsynchronousExceptions\bin\Debug\net7.0\HandlingAsynchronousExceptions.pdb
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.csproj.AssemblyReference.cache
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.AssemblyInfoInputs.cache
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.AssemblyInfo.cs
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.csproj.CoreCompileInputs.cache
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.dll
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\refint\HandlingAsynchronousExceptions.dll
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.pdb
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\HandlingAsynchronousExceptions.genruntimeconfig.cache
+D:\Git_project\HandlingAsynchronousExceptions\obj\Debug\net7.0\ref\HandlingAsynchronousExceptions.dll
